@@ -3,6 +3,7 @@
 <head>
 	<title>BankNow - Accueil</title>
 	<link rel="stylesheet" type="text/css" href="css/stylesheet.css" media="screen" />
+	<link href="https://fonts.googleapis.com/css?family=Sansita" rel="stylesheet"> 
 </head>
 <header>
 	<img src="include/logo.png" class="toplogo">

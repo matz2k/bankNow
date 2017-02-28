@@ -5,9 +5,6 @@
 	margin-left: 26px;
 	margin-top: 10px;
 }
-<<<<<<< HEAD
-.infoContainer div {
-=======
 
 .CurrentSold {
 	display: block;
@@ -20,7 +17,6 @@
 }
 
 #items{
->>>>>>> 53f555500d933d8fad498da55a292db6a54d495e
 	display: inline-block;
 	text-align: center;
 }

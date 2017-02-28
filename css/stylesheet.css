@@ -5,6 +5,27 @@
 	margin-left: 26px;
 	margin-top: 10px;
 }
+.infoContainer div {
+	display: block;
+	text-align: center;
+}
+
+#last{
+	font-size: 20px;
+	color: white;
+}
+
+.accueilbtn{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 35px;
+	padding: 8px;
+	background-color: green;
+	color: white;
+	border-style: none;
+
+}
 
 .RightContainer button{
 	display: block;
@@ -17,6 +38,12 @@
     display: inline-block;
     font-size: 16px;
     margin-bottom: 165px;
+}
+
+.CurrentSold{
+	display: block;
+	font-size: 60px;
+	color: white;
 }
 
 .RightContainer button a{

@@ -23,6 +23,7 @@ if(!isset($_SESSION['name'])){
 			<p>3210</p>
 			<i class="fa fa-eur"></i>
 		</div>
+		<div class="REAL">
 			<div id="items" class="item">
 				<i id="pos" class="fa fa-arrow-up"></i>
 				<p>423</p>
@@ -46,6 +47,7 @@ if(!isset($_SESSION['name'])){
 				<p>235</p>
 				<p>des pates</p>
 				<i id="last" class="fa fa-eur"></i>
+			</div>
 			</div>
 		</div>
 	<a href="../index.html"><button class="accueilbtn">Accueil</button></a>

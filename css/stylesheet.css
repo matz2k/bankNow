@@ -5,9 +5,28 @@
 	margin-left: 26px;
 	margin-top: 10px;
 }
+<<<<<<< HEAD
 .infoContainer div {
+=======
+
+.CurrentSold {
+	display: block;
+	margin-left: 350px;
+}
+
+.REAL {
+	display: block;
+	margin-left: 350px;
+}
+
+#items{
+>>>>>>> 53f555500d933d8fad498da55a292db6a54d495e
 	display: inline-block;
 	text-align: center;
+}
+
+.infoContainer div {
+	display: block;
 }
 
 #last{

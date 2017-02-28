@@ -1,3 +1,10 @@
+<?php
+//Redirection utilisateur si il n'est pas connecté
+if(!isset($_SESSION['name'])){
+	header("Location:../index.php");
+}
+?>
+
 <!DOCTYPE html>
 <html>
 <head>

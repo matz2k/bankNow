@@ -5,9 +5,24 @@
 	margin-left: 26px;
 	margin-top: 10px;
 }
+
+.CurrentSold {
+	display: block;
+	margin-left: 350px;
+}
+
+.REAL {
+	display: block;
+	margin-left: 350px;
+}
+
+#items{
+	display: inline-block;
+	text-align: center;
+}
+
 .infoContainer div {
 	display: block;
-	text-align: center;
 }
 
 #last{

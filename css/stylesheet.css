@@ -1,3 +1,89 @@
+.LeftContainer, .MidContainer{
+	display: inline-block;
+	height: 400px;
+	width: 270px;
+	margin-left: 26px;
+	margin-top: 10px;
+}
+
+.RightContainer button{
+	display: block;
+	background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 165px;
+}
+
+.RightContainer button a{
+	color: white;
+	text-decoration: none;
+}
+
+.RightContainer {
+	float: right;
+	margin-top: 95px;
+	width: 240px;
+}
+
+.Libelle{
+	display: inline-block;
+	margin-left: 15px;
+}
+
+.historyContainer {
+	display: inline-block;
+	margin-left: 6px;
+}
+
+.money{
+	display: block;
+
+}
+
+.item {
+	display: inline-block;
+}
+
+#pos {
+	color: green;
+	font-size: 30px;
+	margin-right: 10px;
+}
+
+#neg {
+	color: red;
+	font-size: 30px;
+	margin-right: 10px;
+}
+
+.howmuch{
+	color: white;
+	margin-left: 55px;
+}
+
+#AmountSym {
+	display: inline-block;
+	margin-left: 12px;
+	color: white;
+	font-size: 45px;
+}
+
+.Amount{
+	color: white;
+	margin-left: 60px;
+	text-align: center;
+	font-size: 46px;
+}
+
+body div p {
+	display: inline-block;
+}
+
 .toplogo {
 	display: block;
 	width: 4%;
@@ -12,6 +98,8 @@
 	font-size: 125px;
 }
 
+
+
 form input {
 	display: block;
 	margin-left: auto;
@@ -20,6 +108,15 @@ form input {
 	padding: 7px;
 	opacity: 0.6;
 	border-radius: 6px;
+}
+
+.infoContainer {
+	display: block;
+	width: 900px;
+	height: 450px;
+	background-color: rgba(140, 140, 140, 0.6);
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .signin {

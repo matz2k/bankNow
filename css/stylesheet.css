@@ -1,14 +1,22 @@
-.LeftContainer, .MidContainer{
-	display: inline-block;
-	height: 400px;
-	width: 270px;
-	margin-left: 26px;
-	margin-top: 10px;
+.scdmgl{
+	position: 400px;
 }
 
 .CurrentSold {
 	display: block;
 	margin-left: 350px;
+}
+
+.pingButton{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 35px;
+	padding: 8px;
+	background-color: green;
+	color: white;
+	border-style: none;
+
 }
 
 .REAL {
@@ -39,7 +47,6 @@
 	background-color: green;
 	color: white;
 	border-style: none;
-
 }
 
 .RightContainer button{
@@ -126,6 +133,41 @@ body div p {
 	display: inline-block;
 }
 
+.infoSrv1{
+	display: inline-block;
+	text-align: center;
+	margin-top: -178px;
+	margin-left: 350px;
+	left: 50%;
+	top: 236px;
+}
+
+.infoSrv2{
+	display: inline-block;
+	text-align: center;
+		margin-top: -151px;
+	margin-left: 350px;
+	left: 50%;
+	top: 550px;
+}
+
+.graph1, .graph2{
+	display: inline-block;
+	margin-left: -837px;
+}
+
+.graph2{
+	margin-top:-60px;
+}
+
+.graph1{
+	margin-top: 30px;
+}
+
+.downTimes{
+	text-align: center;
+}
+
 .toplogo {
 	display: block;
 	width: 4%;
@@ -152,10 +194,11 @@ form input {
 	border-radius: 6px;
 }
 
+.proto1, .proto2{}
+
 .infoContainer {
 	display: block;
 	width: 900px;
-	height: 450px;
 	background-color: rgba(140, 140, 140, 0.6);
 	margin-left: auto;
 	margin-right: auto;
